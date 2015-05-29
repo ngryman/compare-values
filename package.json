@@ -1,6 +1,6 @@
 {
   "name": "compare-values",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get functions to compare two values given an operator.",
   "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh)",
   "license": "MIT",
