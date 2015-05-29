@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install —save compare-values
+$ npm install —-save compare-values
 ```
 
 
