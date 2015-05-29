@@ -1,0 +1,32 @@
+{
+  "name": "compare-values",
+  "version": "0.0.0",
+  "description": "Get functions to compare two values given an operator.",
+  "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh)",
+  "license": "MIT",
+  "repository": "ngryman/compare-functions",
+  "files": [
+    "license",
+    "readme.md",
+    "index.js"
+  ],
+  "keywords": [
+    "comparator",
+    "compare",
+    "function",
+    "operator",
+    "values"
+  ],
+  "devDependencies": {
+    "expect.js": "latest",
+    "jscs": "latest",
+    "jshint": "latest",
+    "mocha": "latest"
+  },
+  "scripts": {
+    "lint": "jshint *.js; jscs *.js",
+    "test": "mocha --reporter spec test",
+    "test:watch": "npm test -- --watch",
+    "prepublish": "fixpack"
+  }
+}
