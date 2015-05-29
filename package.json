@@ -26,7 +26,6 @@
   "scripts": {
     "lint": "jshint *.js; jscs *.js",
     "test": "mocha --reporter spec test",
-    "test:watch": "npm test -- --watch",
-    "prepublish": "fixpack"
+    "test:watch": "npm test -- --watch"
   }
 }
