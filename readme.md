@@ -1,4 +1,9 @@
-# compare-values [![Build Status](https://travis-ci.org/ngryman/compare-values.svg?branch=master)](https://travis-ci.org/ngryman/compare-values)
+# compare-values [![npm][npm-image]][npm-url] [![travis][travis-image]][travis-url]
+
+[npm-image]: https://img.shields.io/npm/v/compare-values.svg?style=flat
+[npm-url]: https://npmjs.org/package/compare-values
+[travis-image]: https://img.shields.io/travis/ngryman/compare-values.svg?style=flat
+[travis-url]: https://travis-ci.org/ngryman/compare-values
 
 > Get functions to compare two values given an operator.
 
