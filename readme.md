@@ -1,5 +1,7 @@
 # compare-values [![npm][npm-image]][npm-url] [![travis][travis-image]][travis-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/compare-values.svg)](https://greenkeeper.io/)
+
 [npm-image]: https://img.shields.io/npm/v/compare-values.svg?style=flat
 [npm-url]: https://npmjs.org/package/compare-values
 [travis-image]: https://img.shields.io/travis/ngryman/compare-values.svg?style=flat
